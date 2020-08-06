@@ -36,7 +36,7 @@
 
 <img align="left" alt="skyrunner360's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skyrunner360&show_icons=true&hide_border=true&count_private=true&theme=vue" />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=Code-Friend)](https://github.com/skyrunner360/Code-Friend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=Code_Friend)](https://github.com/skyrunner360/Code_Friend)
 
 
 [website]: https://skyrunner360.pythonanywhere.com
