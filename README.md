@@ -36,7 +36,7 @@
 
 <img align="left" alt="skyrunner360's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skyrunner360&show_icons=true&hide_border=true&count_private=true&theme=vue" />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=Java-Parking-System)](https://github.com/skyrunner360/Java-Parking-System)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=code-friend)](https://github.com/skyrunner360/code-friend)
 
 
 [website]: https://skyrunner360.pythonanywhere.com
