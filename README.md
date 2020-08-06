@@ -40,11 +40,17 @@
   <img align = "left" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=Code_Friend&theme=vue">
  </a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=Django_Website&theme=vue)](https://github.com/skyrunner360/Django_Website)
+<a href="https://github.com/skyrunner360/Django_Website">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=Django_Website&theme=vue">
+ </a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=django_blog&theme=vue)](https://github.com/skyrunner360/django_blog)
+<a href="https://github.com/skyrunner360/django_blog"> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=django_blog&theme=vue">
+  </a>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=ADYPU_Feedback_form_filling_Bot&theme=vue)](https://github.com/skyrunner360/ADYPU_Feedback_form_filling_Bot)
+<a href="https://github.com/skyrunner360/ADYPU_Feedback_form_filling_Bot">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=ADYPU_Feedback_form_filling_Bot&theme=vue">
+ </a>
 
 
 
