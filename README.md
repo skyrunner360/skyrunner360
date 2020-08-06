@@ -38,7 +38,6 @@
 
 <img align="left" alt="skyrunner360's Github Stats" src="https://github-readme-stats.vercel.app/api/pin?username=skyrunner360&repo=Java-Parking-System" />
 
----
 
 [website]: https://skyrunner360.pythonanywhere.com
 [twitter]: https://twitter.com/skyrunner360
