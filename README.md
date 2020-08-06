@@ -42,6 +42,9 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=django_blog)](https://github.com/skyrunner360/django_blog)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=ADYPU_Feedback_form_filling_Bot)](https://github.com/skyrunner360/ADYPU_Feedback_form_filling_Bot)
+
+
 
 [website]: https://skyrunner360.pythonanywhere.com
 [twitter]: https://twitter.com/skyrunner360
