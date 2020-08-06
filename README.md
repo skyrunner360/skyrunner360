@@ -38,6 +38,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=Code_Friend)](https://github.com/skyrunner360/Code_Friend)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=Django_Website)](https://github.com/skyrunner360/Django_Website)
+
 
 [website]: https://skyrunner360.pythonanywhere.com
 [twitter]: https://twitter.com/skyrunner360
