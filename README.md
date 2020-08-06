@@ -40,6 +40,8 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=Django_Website)](https://github.com/skyrunner360/Django_Website)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=django_blog)](https://github.com/skyrunner360/django_blog)
+
 
 [website]: https://skyrunner360.pythonanywhere.com
 [twitter]: https://twitter.com/skyrunner360
