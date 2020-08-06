@@ -38,11 +38,11 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=Code_Friend&theme=vue)](https://github.com/skyrunner360/Code_Friend)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=Django_Website)](https://github.com/skyrunner360/Django_Website)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=Django_Website&theme=vue)](https://github.com/skyrunner360/Django_Website)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=django_blog)](https://github.com/skyrunner360/django_blog)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=django_blog&theme=vue)](https://github.com/skyrunner360/django_blog)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=ADYPU_Feedback_form_filling_Bot)](https://github.com/skyrunner360/ADYPU_Feedback_form_filling_Bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=ADYPU_Feedback_form_filling_Bot&theme=vue)](https://github.com/skyrunner360/ADYPU_Feedback_form_filling_Bot)
 
 
 
