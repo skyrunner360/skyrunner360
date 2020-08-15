@@ -40,15 +40,6 @@
 
 ---
 
-<img align="left" alt="skyrunner360's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skyrunner360&show_icons=true&hide_border=true&count_private=true&theme=vue" />
-
-
-
-
-
-
-
-
 <br>
 <br>
 
@@ -62,7 +53,9 @@
 5. 🎉 Merged PR [#1](https://github.com//skyrunner360/django_blog/pull/1) in [skyrunner360/django_blog](https://github.com//skyrunner360/django_blog)
 <!--END_SECTION:activity-->
  </details>
- 
+
+<img align="left" alt="skyrunner360's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skyrunner360&show_icons=true&hide_border=true&count_private=true&theme=vue" />
+
 ---
 
 <a href="https://github.com/skyrunner360/Code_Friend"> 
