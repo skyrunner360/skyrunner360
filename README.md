@@ -42,14 +42,6 @@
 
 <img align="left" alt="skyrunner360's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skyrunner360&show_icons=true&hide_border=true&count_private=true&theme=vue" />
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//vivek9patel/screen-recorder-using-python/pull/1) in [vivek9patel/screen-recorder-using-python](https://github.com//vivek9patel/screen-recorder-using-python)
-2. 🗣 Commented on [#1](https://github.com//KalleHallden/reddit_automations/issues/1) in [KalleHallden/reddit_automations](https://github.com//KalleHallden/reddit_automations)
-3. 🎉 Merged PR [#2](https://github.com//skyrunner360/django_blog/pull/2) in [skyrunner360/django_blog](https://github.com//skyrunner360/django_blog)
-4. 💪 Opened PR [#2](https://github.com//skyrunner360/django_blog/pull/2) in [skyrunner360/django_blog](https://github.com//skyrunner360/django_blog)
-5. undefined
-<!--END_SECTION:activity-->
-
 ---
 
 
@@ -68,6 +60,13 @@
 <a href="https://github.com/skyrunner360/ADYPU_Feedback_form_filling_Bot">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=ADYPU_Feedback_form_filling_Bot&theme=vue">
  </a>
+ 
+ ---
+ <details>
+  <summary>:zap: Recent Github Activity</summary>
+ 
+<!--START_SECTION:activity-->
+</details>
 
 
 
