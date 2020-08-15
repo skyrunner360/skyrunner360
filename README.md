@@ -1,5 +1,5 @@
 ### Hi there, I'm Rishi - aka [skyrunner][website]<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-👋
+
 
 ## I'm a Student, Gamer, Coder, and Web Developer!
 - 🌱 I’m currently learning everything 🤣
@@ -16,7 +16,8 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 
 ### Languages and Tools:
 
