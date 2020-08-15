@@ -50,7 +50,7 @@
 2. 🗣 Commented on [#1](https://github.com//KalleHallden/reddit_automations/issues/1) in [KalleHallden/reddit_automations](https://github.com//KalleHallden/reddit_automations)
 3. 🎉 Merged PR [#2](https://github.com//skyrunner360/django_blog/pull/2) in [skyrunner360/django_blog](https://github.com//skyrunner360/django_blog)
 4. 💪 Opened PR [#2](https://github.com//skyrunner360/django_blog/pull/2) in [skyrunner360/django_blog](https://github.com//skyrunner360/django_blog)
-5. 🎉 Merged PR [#1](https://github.com//skyrunner360/django_blog/pull/1) in [skyrunner360/django_blog](https://github.com//skyrunner360/django_blog)
+5. undefined
 <!--END_SECTION:activity-->
  </details>
 
