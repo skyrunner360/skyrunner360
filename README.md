@@ -38,8 +38,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyrunner360&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
+---
+
+<img align="left" alt="skyrunner360's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skyrunner360&show_icons=true&hide_border=true&count_private=true&theme=vue" />
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com//vivek9patel/screen-recorder-using-python/pull/1) in [vivek9patel/screen-recorder-using-python](https://github.com//vivek9patel/screen-recorder-using-python)
 2. 🗣 Commented on [#1](https://github.com//KalleHallden/reddit_automations/issues/1) in [KalleHallden/reddit_automations](https://github.com//KalleHallden/reddit_automations)
@@ -47,11 +49,6 @@
 4. 💪 Opened PR [#2](https://github.com//skyrunner360/django_blog/pull/2) in [skyrunner360/django_blog](https://github.com//skyrunner360/django_blog)
 5. undefined
 <!--END_SECTION:activity-->
- </details>
-
----
-
-<img align="left" alt="skyrunner360's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skyrunner360&show_icons=true&hide_border=true&count_private=true&theme=vue" />
 
 ---
 
