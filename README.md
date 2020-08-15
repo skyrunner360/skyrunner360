@@ -76,8 +76,6 @@
 <!--END_SECTION:activity-->
 </details>
 
-![Visitor Count](https://profile-counter.glitch.me/skyrunner360/count.svg)
-
 
 [website]: https://skyrunner360.pythonanywhere.com
 [twitter]: https://twitter.com/skyrunner360
