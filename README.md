@@ -38,12 +38,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyrunner360&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-<br>
-<br>
-
-<details align="left">
+<details>
   <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com//vivek9patel/screen-recorder-using-python/pull/1) in [vivek9patel/screen-recorder-using-python](https://github.com//vivek9patel/screen-recorder-using-python)
@@ -54,9 +49,12 @@
 <!--END_SECTION:activity-->
  </details>
 
+---
+
 <img align="left" alt="skyrunner360's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skyrunner360&show_icons=true&hide_border=true&count_private=true&theme=vue" />
 
 ---
+
 
 <a href="https://github.com/skyrunner360/Code_Friend"> 
   <img align = "left" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=Code_Friend&theme=vue">
