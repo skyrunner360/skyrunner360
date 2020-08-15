@@ -53,8 +53,6 @@
 <!--END_SECTION:activity-->
  </details>
 
----
-
 <a href="https://github.com/skyrunner360/Code_Friend"> 
   <img align = "left" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=Code_Friend&theme=vue">
  </a>
