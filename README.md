@@ -63,9 +63,7 @@
 <a href="https://github.com/skyrunner360/ADYPU_Feedback_form_filling_Bot">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=ADYPU_Feedback_form_filling_Bot&theme=vue">
  </a>
- 
- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=skyrunner360.skyrunner360)
-
+ <img align="left" src=https://visitor-badge.laobi.icu/badge?page_id=skyrunner360.skyrunner360>
  
  <details>
   <summary>:zap: Recent Github Activity</summary>
