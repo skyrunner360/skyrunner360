@@ -52,7 +52,7 @@
 <br>
 <br>
 
-<details>
+<details align="left">
   <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](https://github.com//vivek9patel/screen-recorder-using-python/pull/1) in [vivek9patel/screen-recorder-using-python](https://github.com//vivek9patel/screen-recorder-using-python)
