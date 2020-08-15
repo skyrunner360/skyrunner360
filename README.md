@@ -64,6 +64,9 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=ADYPU_Feedback_form_filling_Bot&theme=vue">
  </a>
  
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=skyrunner360.skyrunner360)
+
+ 
  <details>
   <summary>:zap: Recent Github Activity</summary>
  
@@ -72,9 +75,6 @@
 2. ❗️ Opened issue [#4211](https://github.com//timburgan/timburgan/issues/4211) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
 <!--END_SECTION:activity-->
 </details>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=skyrunner360.skyrunner360)
-
 
 
 
