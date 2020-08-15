@@ -68,8 +68,8 @@
   <summary>:zap: Recent Github Activity</summary>
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//vivek9patel/screen-recorder-using-python/pull/1) in [vivek9patel/screen-recorder-using-python](https://github.com//vivek9patel/screen-recorder-using-python)
-2. 🗣 Commented on [#1](https://github.com//KalleHallden/reddit_automations/issues/1) in [KalleHallden/reddit_automations](https://github.com//KalleHallden/reddit_automations)
+1. ❗️ Opened issue [#4212](https://github.com//timburgan/timburgan/issues/4212) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+2. ❗️ Opened issue [#4211](https://github.com//timburgan/timburgan/issues/4211) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
 <!--END_SECTION:activity-->
 </details>
 
