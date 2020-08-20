@@ -2,7 +2,7 @@
 
 
 ## I'm a Student, Gamer, Coder, and Web Developer!
-- 🌱 I’m currently learning `Vue.js`
+- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other open source developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play games
