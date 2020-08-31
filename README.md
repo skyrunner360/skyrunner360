@@ -71,9 +71,9 @@
   <summary>:zap: Recent Github Activity</summary>
  
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4212](https://github.com//timburgan/timburgan/issues/4212) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-2. ❗️ Opened issue [#4211](https://github.com//timburgan/timburgan/issues/4211) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-3. 💪 Opened PR [#1](https://github.com//vivek9patel/screen-recorder-using-python/pull/1) in [vivek9patel/screen-recorder-using-python](https://github.com//vivek9patel/screen-recorder-using-python)
+1. 🗣 Commented on [#6](https://github.com//skyrunner360/Code_Friend/issues/6) in [skyrunner360/Code_Friend](https://github.com//skyrunner360/Code_Friend)
+2. ❗️ Opened issue [#4212](https://github.com//timburgan/timburgan/issues/4212) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+3. ❗️ Opened issue [#4211](https://github.com//timburgan/timburgan/issues/4211) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 </details>
