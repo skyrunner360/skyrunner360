@@ -71,9 +71,9 @@
   <summary>:zap: Recent Github Activity</summary>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com//skyrunner360/Code_Friend/issues/6) in [skyrunner360/Code_Friend](https://github.com//skyrunner360/Code_Friend)
-2. ❗️ Opened issue [#4212](https://github.com//timburgan/timburgan/issues/4212) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
-3. ❗️ Opened issue [#4211](https://github.com//timburgan/timburgan/issues/4211) in [timburgan/timburgan](https://github.com//timburgan/timburgan)
+1. 🗣 Commented on [#7](https://github.com//skyrunner360/Code_Friend/issues/7) in [skyrunner360/Code_Friend](https://github.com//skyrunner360/Code_Friend)
+2. ❌ Closed PR [#3](https://github.com//skyrunner360/Code_Friend/pull/3) in [skyrunner360/Code_Friend](https://github.com//skyrunner360/Code_Friend)
+3. ❌ Closed PR [#2](https://github.com//skyrunner360/Code_Friend/pull/2) in [skyrunner360/Code_Friend](https://github.com//skyrunner360/Code_Friend)
 <!--END_SECTION:activity-->
 
 </details>
