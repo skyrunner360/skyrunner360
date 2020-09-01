@@ -71,9 +71,9 @@
   <summary>:zap: Recent Github Activity</summary>
  
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com//skyrunner360/Code_Friend/issues/7) in [skyrunner360/Code_Friend](https://github.com//skyrunner360/Code_Friend)
-2. ❌ Closed PR [#3](https://github.com//skyrunner360/Code_Friend/pull/3) in [skyrunner360/Code_Friend](https://github.com//skyrunner360/Code_Friend)
-3. ❌ Closed PR [#2](https://github.com//skyrunner360/Code_Friend/pull/2) in [skyrunner360/Code_Friend](https://github.com//skyrunner360/Code_Friend)
+1. 🗣 Commented on [#8](https://github.com//skyrunner360/Code_Friend/issues/8) in [skyrunner360/Code_Friend](https://github.com//skyrunner360/Code_Friend)
+2. 🗣 Commented on [#7](https://github.com//skyrunner360/Code_Friend/issues/7) in [skyrunner360/Code_Friend](https://github.com//skyrunner360/Code_Friend)
+3. ❌ Closed PR [#3](https://github.com//skyrunner360/Code_Friend/pull/3) in [skyrunner360/Code_Friend](https://github.com//skyrunner360/Code_Friend)
 <!--END_SECTION:activity-->
 
 </details>
