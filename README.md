@@ -58,7 +58,6 @@
   </a>
   
   <a href="https://github.com/skyrunner360/Django_Website">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=Django_Website&theme=vue">
  </a>
 
 <a href="https://github.com/skyrunner360/ADYPU_Feedback_form_filling_Bot">
