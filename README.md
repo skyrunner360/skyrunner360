@@ -71,9 +71,9 @@
   <summary>:zap: Recent Github Activity</summary>
  
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/skyrunner360/Code_Friend/issues/5) in [skyrunner360/Code_Friend](https://github.com/skyrunner360/Code_Friend)
-2. ❗️ Closed issue [#4](https://github.com/skyrunner360/Code_Friend/issues/4) in [skyrunner360/Code_Friend](https://github.com/skyrunner360/Code_Friend)
-3. ❗️ Closed issue [#1](https://github.com/skyrunner360/Code_Friend/issues/1) in [skyrunner360/Code_Friend](https://github.com/skyrunner360/Code_Friend)
+1. ❗️ Opened issue [#499](https://github.com/anuraghazra/github-readme-stats/issues/499) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. ❗️ Closed issue [#5](https://github.com/skyrunner360/Code_Friend/issues/5) in [skyrunner360/Code_Friend](https://github.com/skyrunner360/Code_Friend)
+3. ❗️ Closed issue [#4](https://github.com/skyrunner360/Code_Friend/issues/4) in [skyrunner360/Code_Friend](https://github.com/skyrunner360/Code_Friend)
 <!--END_SECTION:activity-->
 
 </details>
