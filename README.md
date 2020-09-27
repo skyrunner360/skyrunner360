@@ -52,14 +52,14 @@
 <a href="https://github.com/skyrunner360/Code_Friend"> 
   <img align = "left" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=Code_Friend&theme=vue">
  </a>
+ 
+   <a href="https://github.com/skyrunner360/Ecommerce-Website-Django">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=Ecommerce-Website-Django&theme=vue">
+ </a>
 
 <a href="https://github.com/skyrunner360/django_blog"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=django_blog&theme=vue">
   </a>
-  
-  <a href="https://github.com/skyrunner360/Ecommerce-Website-Django">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=Ecommerce-Website-Django&theme=vue">
- </a>
 
 <a href="https://github.com/skyrunner360/ADYPU_Feedback_form_filling_Bot">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=ADYPU_Feedback_form_filling_Bot&theme=vue">
