@@ -71,9 +71,9 @@
   <summary>:zap: Recent Github Activity</summary>
  
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/pydeveloperashish/Facial-Expressions-Recognition/pull/2) in [pydeveloperashish/Facial-Expressions-Recognition](https://github.com/pydeveloperashish/Facial-Expressions-Recognition)
-2. 💪 Opened PR [#1](https://github.com/darkknight3031/Instagram-Login-Automation/pull/1) in [darkknight3031/Instagram-Login-Automation](https://github.com/darkknight3031/Instagram-Login-Automation)
-3. 💪 Opened PR [#1](https://github.com/darkknight3031/Tinder-Login-Automation/pull/1) in [darkknight3031/Tinder-Login-Automation](https://github.com/darkknight3031/Tinder-Login-Automation)
+1. 💪 Opened PR [#1](https://github.com/darkknight3031/Hello_world_c-/pull/1) in [darkknight3031/Hello_world_c-](https://github.com/darkknight3031/Hello_world_c-)
+2. 🎉 Merged PR [#1](https://github.com/skyrunner360/The_Secret_Diary/pull/1) in [skyrunner360/The_Secret_Diary](https://github.com/skyrunner360/The_Secret_Diary)
+3. 💪 Opened PR [#2](https://github.com/pydeveloperashish/Facial-Expressions-Recognition/pull/2) in [pydeveloperashish/Facial-Expressions-Recognition](https://github.com/pydeveloperashish/Facial-Expressions-Recognition)
 <!--END_SECTION:activity-->
 
 </details>
