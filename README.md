@@ -71,9 +71,9 @@
   <summary>:zap: Recent Github Activity</summary>
  
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#499](https://github.com/anuraghazra/github-readme-stats/issues/499) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. ❗️ Closed issue [#5](https://github.com/skyrunner360/Code_Friend/issues/5) in [skyrunner360/Code_Friend](https://github.com/skyrunner360/Code_Friend)
-3. ❗️ Closed issue [#4](https://github.com/skyrunner360/Code_Friend/issues/4) in [skyrunner360/Code_Friend](https://github.com/skyrunner360/Code_Friend)
+1. 💪 Opened PR [#2](https://github.com/pydeveloperashish/Facial-Expressions-Recognition/pull/2) in [pydeveloperashish/Facial-Expressions-Recognition](https://github.com/pydeveloperashish/Facial-Expressions-Recognition)
+2. 💪 Opened PR [#1](https://github.com/darkknight3031/Instagram-Login-Automation/pull/1) in [darkknight3031/Instagram-Login-Automation](https://github.com/darkknight3031/Instagram-Login-Automation)
+3. 💪 Opened PR [#1](https://github.com/darkknight3031/Tinder-Login-Automation/pull/1) in [darkknight3031/Tinder-Login-Automation](https://github.com/darkknight3031/Tinder-Login-Automation)
 <!--END_SECTION:activity-->
 
 </details>
