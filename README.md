@@ -71,9 +71,9 @@
   <summary>:zap: Recent Github Activity</summary>
  
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/skyrunner360/ADYPU_Feedback_form_filling_Bot/pull/1) in [skyrunner360/ADYPU_Feedback_form_filling_Bot](https://github.com/skyrunner360/ADYPU_Feedback_form_filling_Bot)
-2. 🎉 Merged PR [#2](https://github.com/skyrunner360/Ecommerce-Website-Django/pull/2) in [skyrunner360/Ecommerce-Website-Django](https://github.com/skyrunner360/Ecommerce-Website-Django)
-3. 🎉 Merged PR [#10](https://github.com/skyrunner360/Code_Friend/pull/10) in [skyrunner360/Code_Friend](https://github.com/skyrunner360/Code_Friend)
+1. 🎉 Merged PR [#11](https://github.com/skyrunner360/Code_Friend/pull/11) in [skyrunner360/Code_Friend](https://github.com/skyrunner360/Code_Friend)
+2. 🎉 Merged PR [#2](https://github.com/skyrunner360/ADYPU_Feedback_form_filling_Bot/pull/2) in [skyrunner360/ADYPU_Feedback_form_filling_Bot](https://github.com/skyrunner360/ADYPU_Feedback_form_filling_Bot)
+3. 🎉 Merged PR [#1](https://github.com/skyrunner360/ADYPU_Feedback_form_filling_Bot/pull/1) in [skyrunner360/ADYPU_Feedback_form_filling_Bot](https://github.com/skyrunner360/ADYPU_Feedback_form_filling_Bot)
 <!--END_SECTION:activity-->
 
 </details>
