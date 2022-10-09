@@ -45,6 +45,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skyrunner360&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+[![@skyrunner's Holopin board](https://holopin.io/api/user/board?user=skyrunner)](https://holopin.io/@skyrunner)
+
 
 <img align="left" alt="skyrunner360's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skyrunner360&show_icons=true&hide_border=true&count_private=true&theme=vue" />
 
@@ -84,5 +86,3 @@
 [youtube]: https://www.youtube.com/channel/UCCPZDCXDNY2tvec9xb6Ce9A?view_as=subscriber
 [instagram]: https://instagram.com/skyrunner360
 [linkedin]: https://www.linkedin.com/in/rishi-mathur-334874174/
-
-[![@skyrunner's Holopin board](https://holopin.io/api/user/board?user=skyrunner)](https://holopin.io/@skyrunner)
