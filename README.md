@@ -2,9 +2,9 @@
 
 
 ## I'm a Student, Gamer, Coder, and Web Developer!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate with other open source developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play games
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
