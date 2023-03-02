@@ -23,7 +23,7 @@
 
 
 ### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://react-query-v3.tanstack.com/_next/static/images/logo-7a7896631260eebffcb031765854375b.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/mui/material-ui/raw/master/docs/public/static/logo.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
