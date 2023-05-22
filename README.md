@@ -2,7 +2,7 @@
 
 
 ## I'm a Student, Gamer, Coder, and Web Developer!
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning NextJs and ReactQuery!
 - 👯 I’m looking to collaborate with other open source developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Games and Anime
