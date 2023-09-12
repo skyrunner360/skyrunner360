@@ -1,7 +1,7 @@
 ### Hi there, I'm Rishi - aka [skyrunner][website]<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 
-## I'm a Student, Gamer, Coder, and Web Developer!
+## I'm a Gamer, Coder, and Web Developer!
 - 🌱 I’m currently learning NextJs and ReactQuery!
 - 👯 I’m looking to collaborate with other open source developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
@@ -70,7 +70,7 @@
 
 
 
-[website]: https://skyrunner360.pythonanywhere.com
+[website]: https://skyrunner.vercel.app
 [twitter]: https://twitter.com/skyrunner360
 [youtube]: https://www.youtube.com/channel/UCCPZDCXDNY2tvec9xb6Ce9A?view_as=subscriber
 [instagram]: https://instagram.com/skyrunner360
