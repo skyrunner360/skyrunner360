@@ -66,7 +66,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=skyrunner360&repo=ADYPU_Feedback_form_filling_Bot&theme=vue">
  </a>
  <br>
- <img style="margin-top:5;" align="left" src="https://visitor-badge.laobi.icu/badge?page_id=skyrunner360.skyrunner360">
 
 
 
