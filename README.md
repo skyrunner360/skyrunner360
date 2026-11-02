@@ -67,7 +67,7 @@
 
 
 
-[website]: https://skyrunner.vercel.app
+[website]: https://blog.skyrunner.in
 [twitter]: https://twitter.com/skyrunner360
 [youtube]: https://www.youtube.com/channel/UCCPZDCXDNY2tvec9xb6Ce9A?view_as=subscriber
 [instagram]: https://instagram.com/skyrunner360
